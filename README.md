@@ -9,7 +9,7 @@
 > Money Converter's Interface/ Interface do Money Converter
 
 ### Click at link below to see it working! / Clique no link abaixo para vê-lo funcionando!
-<a src="https://yurimayk.github.io/CONVERTERPROJECT/">Clique aqui!</a>
+<a href="https://yurimayk.github.io/CONVERTERPROJECT/">Clique aqui!</a>
 
 ### Project steps/Etapas do Projeto
 
