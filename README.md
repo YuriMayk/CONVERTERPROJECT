@@ -10,6 +10,7 @@
 ### Project steps/Etapas do Projeto
 
 The project is still under development. Below are the current definitions of performed tasks and upcoming updates:
+</br>
 O projeto ainda está em desenvolvimento. Abaixo estão as definições atuais de tarefas executadas e atualizações futuras:
 
 - [x] Create HTML/Criar estrutura HTML;
@@ -21,6 +22,7 @@ O projeto ainda está em desenvolvimento. Abaixo estão as definições atuais d
 ## 🤝 Contributors/Colaboradores
 
 We thank the following people who contributed to this project:
+</br>
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
