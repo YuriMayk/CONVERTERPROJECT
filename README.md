@@ -4,9 +4,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 
 
-<!-- <img src="./assets/Interface-image.png" alt="Imagem do projeto de Interface"> -->
+<img src="./assets/Project-Image.png" alt="Imagem da Interface do projeto/ Project's Interface Image">
 
-<!-- > Yoga's app Interface -->
+> Money Converter's Interface/ Interface do Money Converter
 ### Project steps/Etapas do Projeto
 
 The project is still under development. Below are the current definitions of performed tasks and upcoming updates:
@@ -15,9 +15,10 @@ O projeto ainda está em desenvolvimento. Abaixo estão as definições atuais d
 
 - [x] Create HTML/Criar estrutura HTML;
 - [x] Create CSS/Estilização com CSS;
-- [ ] Layout Update/Atualizar o Layout;
-- [ ] Add JavaScript/Adicionar JavaScript.
-- [ ] Put the project online/Colocar o projeto online.
+- [x] Layout Update/Atualizar o Layout;
+- [x] Add JavaScript/Adicionar JavaScript;
+- [ ] Put the project online/Colocar o projeto online;
+- [ ] Add NodeJS/ Adicionar NodeJS.
 
 ## 🤝 Contributors/Colaboradores
 
