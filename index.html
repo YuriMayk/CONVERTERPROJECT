@@ -23,17 +23,21 @@
 
             <label>
                 Converter <span class="bold">de</span>
-                <select>
-                    <option value=""> R$ Real brasileiro</option>
+                <select id="first-select">
+                    <option>R$ Real brasileiro</option>
+                    <option>US$ Dólar Americano</option>
+                    <option>€ Euro</option>
+                    <option>₿ Bitcoin</option>
                 </select>
             </label>
 
             <label>
                 Converter <span class="bold">para</span>
                 <select id="currency-select">
-                    <option> US$ Dólar Americano</option>
+                    <option>US$ Dólar Americano</option>
                     <option>€ Euro</option>
                     <option>₿ Bitcoin</option>
+                    <option>R$ Real brasileiro</option>
                 </select>
             </label>
 
@@ -46,8 +50,8 @@
 
             <section>
                 <div class="currency-container">
-                    <img src="./assets/brasil 2.png" alt="Bandeira-Brasil">
-                    <p class="currency-name">Real</p>
+                    <img src="./assets/brasil 2.png" alt="Bandeira-Brasil" id="first-currency-image">
+                    <p class="currency-name" id="first-currency-name">Real</p>
                     <p class="currency-value" id="real-value-text">R$ 10.000,00</p>
                 </div>
                 <div>

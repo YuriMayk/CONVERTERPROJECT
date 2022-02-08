@@ -1,5 +1,6 @@
 const button = document.getElementById("converter-button")
 const select = document.getElementById("currency-select")
+const firstselect = document.getElementById("first-select")
 const dolar = 5.32
 const euro = 6.1
 const bitcoin = 215311.50
@@ -42,6 +43,30 @@ const convertValues = () => {
     }
 
 }
+const firstChangeCurrency = () => {
+    const firstCurrencyName = document.getElementById("first-currency-name")
+    const firstCurrencyImage = document.getElementById("first-currency-image")
+
+    if (firstselect.value === "US$ Dólar Americano") {
+        firstCurrencyName.innerHTML = "Dólar Americano"
+        firstCurrencyImage.src = "./assets/Eua.png"
+    }
+
+    if (firstselect.value === "€ Euro") {
+        firstCurrencyName.innerHTML = "Euro"
+        firstCurrencyImage.src = "./assets/Euro.png"
+    }
+
+    if (firstselect.value === "₿ Bitcoin") {
+        firstCurrencyName.innerHTML = "Bitcoin"
+        firstCurrencyImage.src = "./assets/bitcoin.png"
+    }
+    if (firstselect.value === "R$ Real brasileiro") {
+        firstCurrencyName.innerHTML = "Real"
+        firstCurrencyImage.src = "./assets/brasil 2.png"
+    }
+
+}
 
 const changeCurrency = () => {
     const currencyName = document.getElementById("currency-name")
@@ -61,8 +86,13 @@ const changeCurrency = () => {
         currencyName.innerHTML = "Bitcoin"
         currencyImage.src = "./assets/bitcoin.png"
     }
+    if (select.value === "R$ Real brasileiro") {
+        currencyName.innerHTML = "Real"
+        currencyImage.src = "./assets/brasil 2.png"
+    }
     convertValues()
 }
 
 button.addEventListener('click', convertValues)
 select.addEventListener('change', changeCurrency)
+firstselect.addEventListener('change', firstChangeCurrency)
