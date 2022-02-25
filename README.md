@@ -30,6 +30,7 @@ O projeto ainda está em desenvolvimento. Abaixo estão as definições atuais d
 - [x] Layout Update/Atualizar o Layout;
 - [x] Add JavaScript/Adicionar JavaScript;
 - [x] Put the project online/Colocar o projeto online;
+- [x] Add CSS to 'money convert' to create a responsive design / Adicionar CSS ao 'Money Convert', para criar um desing responsivo;
 - [ ] Add NodeJS/ Adicionar NodeJS.
 
 ## 🤝 Contributors/Colaboradores
