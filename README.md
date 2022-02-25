@@ -1,5 +1,13 @@
 # Money Converter
 
+### What does this application do? / O que essa aplicação faz?
+
+This application shows to user the current value his receive if he convert money from Brazilian Real(BRL) to three others currencies(American Dolar - USD, European Euro - EUR and Virtual Bitcoin - BTC).
+</br>
+Este aplicativo mostra ao usuário o valor atual que ele recebe se ele converter dinheiro do real brasileiro (BRL) para três outras moedas (Dólar Americano - USD, Euro Europeu - EUR e Bitcoin Virtual - BTC). 
+</br>
+</br>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 
