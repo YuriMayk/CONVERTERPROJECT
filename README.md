@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento. Abaixo estão as definições atuais d
 - [x] Create CSS/Estilização com CSS;
 - [x] Layout Update/Atualizar o Layout;
 - [x] Add JavaScript/Adicionar JavaScript;
-- [ ] Put the project online/Colocar o projeto online;
+- [x] Put the project online/Colocar o projeto online;
 - [ ] Add NodeJS/ Adicionar NodeJS.
 
 ## 🤝 Contributors/Colaboradores
